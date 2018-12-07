@@ -1,1 +1,2 @@
 Initial foo commit
+New version 1.0 released
